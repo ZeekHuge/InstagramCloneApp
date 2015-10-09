@@ -1,6 +1,5 @@
 # InstagramCloneApp
 This  is a clone of famous Instagram app made to practice iOS development
-
 Its an iOS application.
 
 The application is an exercise to learn application development on iPhones.
