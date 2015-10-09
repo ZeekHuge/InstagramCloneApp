@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="MLPostFactor V0.3" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="UsernameInfo" syncable="YES">
+        <attribute name="followers" optional="YES" attributeType="String" defaultValueString="@" syncable="YES"/>
+        <attribute name="followersNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="followings" optional="YES" attributeType="String" defaultValueString="@" syncable="YES"/>
+        <attribute name="followingsNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="loggedIn" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pictures" optional="YES" attributeType="String" defaultValueString="@" syncable="YES"/>
+        <attribute name="posts" optional="YES" attributeType="String" defaultValueString="@" syncable="YES"/>
+        <attribute name="postsNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UsernameInfo" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
