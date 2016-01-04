@@ -1,4 +1,4 @@
-# InstagramCloneApp
+﻿# InstagramCloneApp
 This  is a clone of famous Instagram app made to practice iOS development
 Its an iOS application.
 
@@ -10,21 +10,70 @@ The application was built on Xcode5 and was tested on iPhone 3.5 inch retina dis
 
 ScreenShots:
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot9.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot8.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot7.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot6.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot5.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot4.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot3.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot2.png)
 
-![alt tag](https://raw.github.com/ZeekHuge/InstagramCloneApp/tree/master/Screenshots/ScreenShot1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
