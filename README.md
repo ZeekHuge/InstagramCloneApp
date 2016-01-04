@@ -10,7 +10,23 @@ The application was built on Xcode5 and was tested on iPhone 3.5 inch retina dis
 
 ScreenShots:
 
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot9.png)
 
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot8.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot7.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot6.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot5.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot4.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot3.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot2.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot1.png)
 
 
 
