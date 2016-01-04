@@ -10,6 +10,7 @@ The application was built on Xcode5 and was tested on iPhone 3.5 inch retina dis
 
 ScreenShots:
 
+![ScreenShot](https://raw.githubusercontent.com/ZeekHuge/InstagramCloneApp/master/Screenshots/ScreenShot1.png)
 
 
 
